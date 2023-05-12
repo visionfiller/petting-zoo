@@ -4,5 +4,5 @@ from walking import Alpaca, Llama, Goat, Wolf, Deer
 from slithering import Cobra, CopperHead, Snake, Salamander, WaterSnake
 
 
-roberto = Alpaca("Roberto", "alpaca", "midday")
-print(f'{roberto.name} the {roberto.species} is available to pet during the {roberto.shift} shift.')
+miss_fuzz = Llama("Miss Fuzz", "domestic llama", "morning", "Llama Chow" )
+print(miss_fuzz)
